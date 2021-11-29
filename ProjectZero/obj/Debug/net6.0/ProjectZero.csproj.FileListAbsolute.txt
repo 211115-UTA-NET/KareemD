@@ -1,0 +1,15 @@
+/Users/kareemdaley/Revature/KareemD/ProjectZero/bin/Debug/net6.0/ProjectZero
+/Users/kareemdaley/Revature/KareemD/ProjectZero/bin/Debug/net6.0/ProjectZero.deps.json
+/Users/kareemdaley/Revature/KareemD/ProjectZero/bin/Debug/net6.0/ProjectZero.runtimeconfig.json
+/Users/kareemdaley/Revature/KareemD/ProjectZero/bin/Debug/net6.0/ProjectZero.dll
+/Users/kareemdaley/Revature/KareemD/ProjectZero/bin/Debug/net6.0/ref/ProjectZero.dll
+/Users/kareemdaley/Revature/KareemD/ProjectZero/bin/Debug/net6.0/ProjectZero.pdb
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ProjectZero.csproj.AssemblyReference.cache
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ProjectZero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ProjectZero.AssemblyInfoInputs.cache
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ProjectZero.AssemblyInfo.cs
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ProjectZero.csproj.CoreCompileInputs.cache
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ProjectZero.dll
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ref/ProjectZero.dll
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ProjectZero.pdb
+/Users/kareemdaley/Revature/KareemD/ProjectZero/obj/Debug/net6.0/ProjectZero.genruntimeconfig.cache
