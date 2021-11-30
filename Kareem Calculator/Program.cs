@@ -7,19 +7,20 @@ namespace Calculator
         static void Main(string[] args)
         {
 
-            int num1 = 0;
-            int num2 = 0;
+            double num1 = 0;
+            double num2 = 0;
             bool running = true;
 
 
             Console.WriteLine("Type a number, and then press Enter");
-            num1 = Convert.ToInt32(Console.ReadLine());
+            num1 = Convert.ToDouble(Console.ReadLine());
 
 
         
             do{
             Console.WriteLine("Type another number, and then press Enter");
-            num2 = Convert.ToInt32(Console.ReadLine());
+            num2 = Convert.ToDouble(Console.ReadLine());
+            
 
            
             num1 = doMath(num1, num2);
@@ -28,7 +29,7 @@ namespace Calculator
 
         
 
-        int doMath(int num1, int num2){
+        double doMath(double num1, double num2){
 
             // Ask the user to choose an option.
             Console.WriteLine("Choose an option from the following list:");
@@ -56,15 +57,23 @@ namespace Calculator
                     num1 = num1 * num2;
                     break;
                 case "d":
+                if(num2 == 0){
+                Console.WriteLine("Error: Dividing by zero. Choose another number");
+                num2 = Convert.ToDouble(Console.ReadLine());
+            }
                     Console.WriteLine($"Your result: {num1} / {num2} = " + (num1 / num2));
                     num1 = num1 / num2;
                     break;
                 case "c":
                     Console.WriteLine("Type a number, and then press Enter");
-                    num1 = Convert.ToInt32(Console.ReadLine());
+                    num1 = Convert.ToDouble(Console.ReadLine());
                     break;
                 case "x":
                     running = false;
+                    break;
+                default:
+                    Console.WriteLine("Invalid Operation! Choose again!");
+                    doMath(num1, num2);
                     break;
 
             }
