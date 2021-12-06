@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kareemdaley/Revature/KareemD/Kareem Calculator/ProjectZero.csproj",
-      "projectName": "ProjectZero",
-      "projectPath": "/Users/kareemdaley/Revature/KareemD/Kareem Calculator/ProjectZero.csproj",
+      "projectUniqueName": "/Users/kareemdaley/Revature/KareemD/acc-soln/acc-soln.csproj",
+      "projectName": "acc-soln",
+      "projectPath": "/Users/kareemdaley/Revature/KareemD/acc-soln/acc-soln.csproj",
       "packagesPath": "/Users/kareemdaley/.nuget/packages/",
-      "outputPath": "/Users/kareemdaley/Revature/KareemD/Kareem Calculator/obj/",
+      "outputPath": "/Users/kareemdaley/Revature/KareemD/acc-soln/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kareemdaley/.nuget/NuGet/NuGet.Config"

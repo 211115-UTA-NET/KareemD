@@ -1,0 +1,15 @@
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/acc-soln.csproj.AssemblyReference.cache
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/acc-soln.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/acc-soln.AssemblyInfoInputs.cache
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/acc-soln.AssemblyInfo.cs
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/acc-soln.csproj.CoreCompileInputs.cache
+/Users/kareemdaley/Revature/KareemD/acc-soln/bin/Debug/net6.0/acc-soln
+/Users/kareemdaley/Revature/KareemD/acc-soln/bin/Debug/net6.0/acc-soln.deps.json
+/Users/kareemdaley/Revature/KareemD/acc-soln/bin/Debug/net6.0/acc-soln.runtimeconfig.json
+/Users/kareemdaley/Revature/KareemD/acc-soln/bin/Debug/net6.0/acc-soln.dll
+/Users/kareemdaley/Revature/KareemD/acc-soln/bin/Debug/net6.0/ref/acc-soln.dll
+/Users/kareemdaley/Revature/KareemD/acc-soln/bin/Debug/net6.0/acc-soln.pdb
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/acc-soln.dll
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/ref/acc-soln.dll
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/acc-soln.pdb
+/Users/kareemdaley/Revature/KareemD/acc-soln/obj/Debug/net6.0/acc-soln.genruntimeconfig.cache
