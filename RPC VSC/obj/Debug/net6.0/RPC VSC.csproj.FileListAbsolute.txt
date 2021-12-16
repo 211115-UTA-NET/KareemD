@@ -1,0 +1,15 @@
+/Users/kareemdaley/Revature/KareemD/RPC VSC/bin/Debug/net6.0/RPC VSC
+/Users/kareemdaley/Revature/KareemD/RPC VSC/bin/Debug/net6.0/RPC VSC.deps.json
+/Users/kareemdaley/Revature/KareemD/RPC VSC/bin/Debug/net6.0/RPC VSC.runtimeconfig.json
+/Users/kareemdaley/Revature/KareemD/RPC VSC/bin/Debug/net6.0/RPC VSC.dll
+/Users/kareemdaley/Revature/KareemD/RPC VSC/bin/Debug/net6.0/ref/RPC VSC.dll
+/Users/kareemdaley/Revature/KareemD/RPC VSC/bin/Debug/net6.0/RPC VSC.pdb
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/RPC VSC.csproj.AssemblyReference.cache
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/RPC VSC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/RPC VSC.AssemblyInfoInputs.cache
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/RPC VSC.AssemblyInfo.cs
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/RPC VSC.csproj.CoreCompileInputs.cache
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/RPC VSC.dll
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/ref/RPC VSC.dll
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/RPC VSC.pdb
+/Users/kareemdaley/Revature/KareemD/RPC VSC/obj/Debug/net6.0/RPC VSC.genruntimeconfig.cache
