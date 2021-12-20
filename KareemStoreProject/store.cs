@@ -66,6 +66,7 @@ namespace storeApp
                 XML.Serialize(stream, this);
             }
         }
+        
         //retirm type is of object (Class1)
         public store LoadFromFile(string fileName)
         {
