@@ -1,0 +1,15 @@
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/storeproject.csproj.AssemblyReference.cache
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/storeproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/storeproject.AssemblyInfoInputs.cache
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/storeproject.AssemblyInfo.cs
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/storeproject.csproj.CoreCompileInputs.cache
+/Users/kareemdaley/Revature/KareemD/storeproject/bin/Debug/net6.0/storeproject
+/Users/kareemdaley/Revature/KareemD/storeproject/bin/Debug/net6.0/storeproject.deps.json
+/Users/kareemdaley/Revature/KareemD/storeproject/bin/Debug/net6.0/storeproject.runtimeconfig.json
+/Users/kareemdaley/Revature/KareemD/storeproject/bin/Debug/net6.0/storeproject.dll
+/Users/kareemdaley/Revature/KareemD/storeproject/bin/Debug/net6.0/ref/storeproject.dll
+/Users/kareemdaley/Revature/KareemD/storeproject/bin/Debug/net6.0/storeproject.pdb
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/storeproject.dll
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/ref/storeproject.dll
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/storeproject.pdb
+/Users/kareemdaley/Revature/KareemD/storeproject/obj/Debug/net6.0/storeproject.genruntimeconfig.cache

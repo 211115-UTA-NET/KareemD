@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{BDC754B5-16F6-4D4A-BD04-F628D056D3B3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RockPaperScissorsApp.App/Game.cs">
+    <Files>
+      <File FileName="RockPaperScissorsApp.App/Game.cs" Line="52" Column="85" />
+      <File FileName="RockPaperScissorsApp.Logic/Round.cs" Line="30" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RockPaperScissorsApp" expanded="True">
+            <Node name="RockPaperScissorsApp.App" expanded="True">
+              <Node name="Game.cs" selected="True" />
+            </Node>
+            <Node name="RockPaperScissorsApp.DataInfrastructure" expanded="True" />
+            <Node name="RockPaperScissorsApp.Logic" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RockPaperScissorsApp.App PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{222C0086-37D4-43C8-B14B-4A92A71B91F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="14" Column="1" />
+      <File FileName="SqlRepository.cs" Line="88" Column="61" />
+      <File FileName="Store.cs" Line="153" Column="19" NotebookId="1" />
+      <File FileName="Product.cs" NotebookId="1" />
+      <File FileName="IRepository.cs" Line="19" Column="1" NotebookId="1" />
+      <File FileName="Transaction.cs" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="storeAppSecondDraft" expanded="True">
+            <Node name="storeAppSecondDraft" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.storeAppSecondDraft PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

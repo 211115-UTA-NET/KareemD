@@ -1,0 +1,28 @@
+
+
+        
+
+        //public void Save(string fileName)
+        //{
+        //    //Use this as template code
+        //    using (var stream = new FileStream(fileName, FileMode.Create))
+        //    {
+        //        var XML = new XmlSerializer(typeof(store));
+        //        XML.Serialize(stream, this);
+        //    }
+        //}
+        ////retirm type is of object (Class1)
+        //public store LoadFromFile(string fileName)
+        //{
+        //    using (var stream = new FileStream(fileName, FileMode.Open))
+        //    {
+        //        var XML = new XmlSerializer(typeof(store));
+        //        store? input = (store?)XML.Deserialize(stream);
+        //        return input!;
+        //    }
+
+        //}
+
+        //return recipt method that saves all order details adn prints it back out to main - this can aslo be appended to total orders for the store and used to update the store records??
+
+        //just implement a read/write at beginning of class so that when its instantiated it will have the proper inventory levels from where we ended alst time??????
